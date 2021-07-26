@@ -1,0 +1,67 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/tripp/blockchain/hardhat-tutorial/contracts/bored-ape.sol": {
+      "lastModificationDate": 1627282028549,
+      "contentHash": "39260a9db3fc373dff7e8407f94c5b38",
+      "sourceName": "contracts/bored-ape.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.2 <0.8.0",
+        ">=0.6.2 <0.8.0",
+        ">=0.6.2 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.2 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "Address",
+        "BoredApeYachtClub",
+        "Context",
+        "ERC165",
+        "ERC721",
+        "EnumerableMap",
+        "EnumerableSet",
+        "IERC165",
+        "IERC721",
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Ownable",
+        "SafeMath",
+        "Strings"
+      ]
+    }
+  }
+}
